@@ -178,6 +178,33 @@ nav svg{
     margin-top: 2rem;
 }
 
+ul li{
+    list-style: none;
+}
+
+ul{
+    margin-left: -39px;
+}
+
+.footer{
+    font-size: 1rem;
+    font-family: 'argonite', sans-serif;
+    color: #FFF8EA;
+    margin-top: 100px;
+
+}
+
+.theme-bg-primary{
+    background: #815B5B;
+    
+    
+}
+
+footer ul li a{
+    color: white ;
+    font-size: 18px;
+    text-decoration:none;
+}
 
 @media screen  and (min-width: 540px){
     body {
