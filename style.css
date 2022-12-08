@@ -115,11 +115,11 @@ nav svg{
 }
 .opt-main {
     background-color:var(--main-color) ;
-    color: var(--secondary-color);
+    color: white;
    
 }
 
-.websiteOpt-sec{
+.websiteOpt-sec {
     background-color: var(--secondary-color);
     color: white;
    
