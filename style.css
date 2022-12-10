@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 html{
     height: 100%;
 }
@@ -205,6 +206,7 @@ footer ul li a{
     font-size: 18px;
     text-decoration:none;
 }
+
 
 @media screen  and (min-width: 540px){
     body {
