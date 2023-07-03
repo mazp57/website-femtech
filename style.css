@@ -77,13 +77,13 @@ nav svg{
 
 .logo h1 {
     margin-left: 0.5rem;
-    font-size: 1rem;
+    font-size: 10%;
     font-family: "argonite", sans-serif;
     
 }
 
 .logo img{
-    width: 5rem;
+    width: 15rem;
 }
 
 .front-page{
